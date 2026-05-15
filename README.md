@@ -26,3 +26,21 @@ Students in large universities walk 10-15 minutes to reach campus cafes. In summ
 - **Project Management:** Trello (Scrum board)
 
 ## Project Structure
+
+UNICAFE/
+├── public/
+│ ├── css/
+│ ├── js/
+│ └── images/
+├── views/
+│ ├── login.html
+│ ├── register.html
+│ ├── student-dashboard.html
+│ ├── cafe-owner-dashboard.html
+│ └── delivery-dashboard.html
+├── routes/
+├── controllers/
+├── models/
+├── config/
+├── .env
+└── server.js
